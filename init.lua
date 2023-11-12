@@ -1,0 +1,3 @@
+
+require("avilua")
+print("Hello")
